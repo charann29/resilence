@@ -1,0 +1,30 @@
+/* Card.css */
+.card {
+    background: orange; /* Changed to orange */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    max-width: 300px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-header {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: white; /* Ensure the text is readable on the orange background */
+}
+
+.card-body a {
+    text-decoration: none;
+    color: #6A0DAD; /* Brinjal color */
+    font-weight: bold;
+}
+
+.card-body a:hover {
+    text-decoration: underline;
+}

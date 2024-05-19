@@ -1,0 +1,195 @@
+[
+    {
+      "domain": "Agriculture",
+      "companies": [
+        {
+          "name": "Greenbliss Agro",
+          "url": "https://greenblissagro.com/"
+        },
+        {
+          "name": "Natupro Agri Solutions",
+          "url": ""
+        },
+        {
+          "name": "Trustgrow fertilizers",
+          "url": "https://www.trustgrow.in/"
+        },
+        {
+          "name": "Plasil Organics",
+          "url": "http://www.plasilorganics.com"
+        },
+        {
+          "name": "Krishitantra",
+          "url": "https://ag-hub.co/krishitantra/"
+        },
+        {
+          "name": "Blueleaves farms",
+          "url": "https://www.blueleaves.farm/"
+        },
+        {
+          "name": "5S Farms",
+          "url": "https://www.youtube.com/channel/UCNjjnFqpRL6qu71optrmsQw"
+        },
+        {
+          "name": "Celebrating Farmers",
+          "url": ""
+        },
+        {
+          "name": "Khethari Agritech",
+          "url": "https://khethari.com/"
+        },
+        {
+          "name": "Agromate",
+          "url": "https://www.agromate.com.my/"
+        }
+      ]
+    },
+    {
+      "domain": "Food",
+      "companies": [
+        {
+          "name": "Greenbliss",
+          "url": "https://greenblissagro.com/"
+        },
+        {
+          "name": "Basically Good",
+          "url": ""
+        },
+        {
+          "name": "Gani Foods",
+          "url": ""
+        },
+        {
+          "name": "Fruitoniq",
+          "url": "https://www.zomato.com/hyderabad/fruitoniq-begumpet"
+        },
+        {
+          "name": "Ammae Foods",
+          "url": "https://www.ammae.in/"
+        }
+      ]
+    },
+    {
+      "domain": "Civil",
+      "companies": [
+        {
+          "name": "Sri Integrity Homes",
+          "url": "https://sreeintegrity.com/"
+        },
+        {
+          "name": "Vamsiram Builders",
+          "url": "https://www.vamsirambuilders.com/"
+        },
+        {
+          "name": "Sumadhura Constructions",
+          "url": "https://sumadhuragroup.com/"
+        }
+      ]
+    },
+    {
+      "domain": "Electronics",
+      "companies": [
+        {
+          "name": "NGE Industries",
+          "url": ""
+        },
+        {
+          "name": "Ilonnati Innovations",
+          "url": "https://ilonnatiinnovations.com/"
+        },
+        {
+          "name": "Kritsnam",
+          "url": "https://kritsnam.com/"
+        },
+        {
+          "name": "Smartterra",
+          "url": "https://www.smartterra.io/"
+        }
+      ]
+    },
+    {
+        "domain": "Information Technology",
+        "companies": [
+          {
+            "name": "Appizion IT Solutions",
+            "url": "https://www.appizion.com/"
+          },
+          {
+            "name": "Bluebase",
+            "url": "https://blubase.com/en/"
+          },
+          {
+            "name": "8fx",
+            "url": "https://8fx.in/"
+          },
+          {
+            "name": "Leantech Labs Pvt Ltd",
+            "url": "https://leantechlabs.in/"
+          },
+          {
+            "name": "Cysigma Pvt Ltd",
+            "url": "https://cysigma.com"
+          },
+          {
+            "name": "Rats Technologies Pvt Ltd",
+            "url": "http://ratstechnologies.com/"
+          },
+          {
+            "name": "Deep Armor Pvt Ltd",
+            "url": "https://www.deeparmor.com/"
+          },
+          {
+            "name": "INFI Tech Pvt Ltd",
+            "url": "https://www.infitechsolutions.co.uk/"
+          },
+          {
+            "name": "Cybel’Art",
+            "url": "https://www.cybelart.com"
+          },
+          {
+            "name": "Peta Byte",
+            "url": "https://petabyte.pro/"
+          },
+          {
+            "name": "Crystal Cube",
+            "url": "https://crystalcube.in/"
+          }
+        ]
+      }
+,      
+    {
+      "domain": "Edu-Tech",
+      "companies": [
+        {
+          "name": "Capullo School Pvt Ltd",
+          "url": "https://capulloschool.blogspot.com/"
+        },
+        {
+          "name": "Eduinar Education",
+          "url": "https://eduinar.in/"
+        },
+        {
+          "name": "Goal Street",
+          "url": "https://www.goalstreet.in/"
+        },
+        {
+          "name": "Code Kids",
+          "url": "https://www.codekids.org.uk/"
+        }
+      ]
+    },
+    {
+      "domain": "Marketing",
+      "companies": [
+        {
+          "name": "Colabr Nation",
+          "url": "https://collabornation.net/login"
+        },
+        {
+          "name": "Sugar Marketing",
+          "url": "https://www.sugarcrm.com/"
+        }
+      ]
+    }
+  ]
+  
